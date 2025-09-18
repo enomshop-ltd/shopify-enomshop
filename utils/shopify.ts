@@ -1,4 +1,4 @@
-const SHOPIFY_SHOP = Deno.env.get("SHOPIFY_SHOP");
+const SHOPIFY_SHOP = Deno.env.get("SHOPIFY_SHOP"); 
 const SHOPIFY_ACCESS_TOKEN = Deno.env.get("SHOPIFY_ACCESS_TOKEN");
 
 if (SHOPIFY_SHOP === undefined || SHOPIFY_ACCESS_TOKEN === undefined) {
