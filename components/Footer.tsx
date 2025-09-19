@@ -28,7 +28,7 @@ export function Footer() {
       </span>
       <a
         class="text-sm text-gray-400 hidden items-center gap-2 sm:!flex"
-        href="https://deno-merch.myshopify.com"
+        href="https://enomshop.co.uk"
       >
         Powered by
         <svg
@@ -57,7 +57,7 @@ export function Footer() {
           </path>
         </svg>
         <span class="text-gray-600">
-          Shopify
+          Enomshop
         </span>
       </a>
     </footer>
